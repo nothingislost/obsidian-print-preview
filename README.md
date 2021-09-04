@@ -6,12 +6,6 @@ This plugin helps theme designers debug export to pdf issues by allowing them to
 
 <img src="imgs/obsidian-print-preview.gif" alt="plugin demo" style="zoom: 67%;" />
 
-- Regex functionality added to the default Obsidian search
-- Regex also works with Search & Replace
-- Capture groups are now supported for replacement
-  - Use dollar sign references to refer to capture groups: $1 $2 etc
-- Support for case-insensitive mode using /foo/i
-
 ### Instructions
 
 - Export to PDF as you normally would
